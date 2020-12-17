@@ -5,12 +5,9 @@ body{
     margin: 0;
     padding: 0;
     background: pink;
-    cursor:url(cursor.png), pointer;
 
 }
-.custom {
 
-  }
 .eyes{
     position: absolute;
     top: 50%;
